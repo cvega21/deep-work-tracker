@@ -11,5 +11,13 @@
   <li>python run.py</li>
 </ul>
 
+<h3>Expected Output Example</h3>
+<p>Time Period: 2020-11-01 to 2020-11-07</p>
+<p>Deep Work threshold set at: 60 mins.</p>
+<p>You logged a total of 10.0 deep work hours.</p> 
+<p>You logged a total of 20.00 work hours.</p>
+<p>Deep work made up 50.00% of your total work.</p>
+
+
 <h3>License</h3>
 <p>Copyright (c) 2020, Christian Vega-Munguia. MIT License</p>
